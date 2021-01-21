@@ -6,7 +6,7 @@ function sobre() {
   return (
     <div> 
       <h1> Henrique </h1>
-      <p> Este é um comentário </p>
+      <p> Comentário </p>
     </div>
   )
 }
